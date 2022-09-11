@@ -5,7 +5,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/françois-porcher-064b41192/)
 
-- [Mail](francois_porcher@berkeley.edu)
+- Mail: francois_porcher@berkeley.edu
 
 <!---
 FrancoisPorcher/FrancoisPorcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
