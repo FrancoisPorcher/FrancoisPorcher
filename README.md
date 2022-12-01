@@ -1,9 +1,13 @@
-- 👋 Hey! I am Francois Porcher.
-- 🎓 I’m currently pursuing a Master of Engineering at UC Berkeley in Industrial Engineering and Operations Research (IEOR), with a concentration in FinTech, and I am loving it so far.
-- 🔎 I’m very interested in Mathematics, Deep Learning and Quant Finance (Hawkes Processes, GANs to generate synthethic time series, Multi-agent based modeling, etc..)
-- 📫 Feel free to message me! I love to meet new people and share ideas.
+- 👋🏻 Hey! I am François Porcher.
+- 🎓 I’m currently pursuing a Master of Engineering at UC Berkeley in Industrial Engineering and Operations Research (IEOR).
+- 🔎 I’m very interested Deep Learning and Mathematics. I am currently doing research on GANs and Signature Path to generate synthethic time series.
+- 📫 Feel free to contact me! I love to meet new people and share ideas.
 
-- [Linkedin](https://www.linkedin.com/in/françois-porcher-064b41192/)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://www.google.com/search?client=safari&rls=en&q=francois+porcher&ie=UTF-8&oe=UTF-8))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
 - Mail: francois_porcher@berkeley.edu
 
