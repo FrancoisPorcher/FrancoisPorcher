@@ -1,5 +1,5 @@
 - 👋🏻 Hey! I am François Porcher.
-- 🎓 I’m currently pursuing a Master of Engineering at UC Berkeley in Industrial Engineering and Operations Research (IEOR).
+- 🎓 Currently finishing a Master of Engineering in Industrial Engineering and Operations Research (IEOR) at UC Berkeley.
 - 🔎 I’m very interested Deep Learning and Mathematics. I am currently doing research on GANs and Signature Path to generate synthethic time series.
 - 📫 Feel free to contact me! I love to meet new people and share ideas.
 
