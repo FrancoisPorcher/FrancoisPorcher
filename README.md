@@ -1,6 +1,6 @@
 - 👋🏻 Hi! I am François Porcher 🇫🇷🇪🇸
-- 🎓 Currently finishing a Master of Engineering in Industrial Engineering and Operations Research (IEOR) at UC Berkeley.
-- 🔎 I’m very interested Deep Learning and Mathematics. I am currently doing research on GANs and Signature Path to generate synthethic time series.
+- 🎓 Currently finishing a Master at UC Berkeley, with a focus on Deep Learning and Applied Mathematics.
+- 🔎 I have a strong interest in applications of Computer Vision, Graph Neural Networks, Neural Processes, Deep Generative Models in Healthcare, Neurosciences, Climate, and Energy. 🍃
 - 📫 Feel free to contact me! I love to meet new people and share ideas.
 
 
