@@ -1,7 +1,8 @@
-- 👋🏻 Hi! I am François Porcher 🇫🇷🇪🇸
-- 🎓 Currently finishing a Master at UC Berkeley, with a focus on Deep Learning and Applied Mathematics.
-- 🔎 I have a strong interest in applications of Computer Vision, Graph Neural Networks, Neural Processes, Deep Generative Models in Healthcare, Neurosciences, Climate, and Energy. 🍃
-- 📫 Feel free to contact me! I love to meet new people and share ideas.
+- 👋🏻 Hi there! I'm François, a 🇫🇷🇪🇸 student based in the Bay Area.
+- 🎓 I'm currently finishing up my Master's degree in AI/Computer Science at UC Berkeley, and I'm set to graduate in May 2023.
+- 🔎 My ultimate goal is to use AI to make a difference in fields such as Healthcare, Neurosciences, Climate, and Energy. 
+- 💻 Some of the exciting techniques I've been exploring include Deep Generative Models, Graph Neural Networks, Computer Vision, and Neural Processes.
+- 📫 If you're interested in chatting about AI, tech, or anything else, don't hesitate to reach out! I'm always up for making new connections and sharing ideas. 💬
 
 
 ## 🔗 Contact me
