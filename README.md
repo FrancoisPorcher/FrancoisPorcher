@@ -1,7 +1,7 @@
 - 👋🏻 Hi there! I'm François, a 🇫🇷🇪🇸 student based in the Bay Area.
-- 🎓 I'm currently finishing up my Master's degree in AI/Computer Science at UC Berkeley, and I'm set to graduate in May 2023.
+- 🎓 I have obtained a Master of Engineering from UC Berkeley in AI/Computer Sciences in May 2023.
 - 🔎 My ultimate goal is to use AI to make a difference in fields such as Healthcare, Neurosciences, Climate, and Energy. 
-- 💻 Some of the exciting techniques I've been exploring include Deep Generative Models, Graph Neural Networks, Computer Vision, and Neural Processes.
+- 💻 Some of the exciting techniques I've been exploring include Deep Generative Models, Graph Neural Networks, Computer Vision, LLMs.
 - 📫 If you're interested in chatting about AI, tech, or anything else, don't hesitate to reach out! I'm always up for making new connections and sharing ideas. 💬
 
 
