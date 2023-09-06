@@ -1,6 +1,6 @@
-# 👋🏻 Welcome to François's GitHub!
+# 👋🏻 Welcome to my GitHub!
 
-Hi there! I'm François, a Research Scientist in Artificial Intelligence coming from 🇫🇷 and 🇪🇸
+Hi there! I'm François, a Research Scientist in Artificial Intelligence from 🇫🇷 and 🇪🇸
 
 ## 🚀 About Me
 
@@ -11,8 +11,8 @@ Hi there! I'm François, a Research Scientist in Artificial Intelligence coming 
   - 🌿 Ecology
   - 🏛️ Governmental Policies
   - ⚡ Energy
-- ✏️ **Author**: Avid writer sharing insights and research on my [Medium Blog](https://medium.com/@francoisporcher).
-- 🎸 **Hobbies**: When not working, I enjoy Writing, Playing and Composing Music on the Guitar, and various Sports.
+- ✏️ **Author**: I share insights and research on my [Medium Blog](https://medium.com/@francoisporcher).
+- 🎸 **Hobbies**: When not working, I enjoy Writing, Playing the Guitar and composing
 
 ## 🔭 Core Research Interests
 
