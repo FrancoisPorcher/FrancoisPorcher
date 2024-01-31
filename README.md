@@ -4,7 +4,7 @@ Hi there! I'm François, a Research Scientist in Artificial Intelligence at Meta
 
 ## 🚀 About Me
 
-- 🏢 Currently at Meta AI, working in Computer Vision.
+- 🏢 Currently a Research Scientist intern at Meta (FAIR). I am working on Semi-Supervised Instance Segmentation on long tailed datasets.
 - 🎓 Alumnus of UC Berkeley (❤️☀️), where I earned my Master's degree in AI/Computer Sciences in May 2023.
 - 🔎 I'm deeply passionate about leveraging AI to make impactful changes in several critical areas: 
   - 🏥 Healthcare (NeuroImaging, exploiting and combining multimodal weak signals)
@@ -16,15 +16,15 @@ Hi there! I'm François, a Research Scientist in Artificial Intelligence at Meta
 
 ## 🔭 Core Research Interests
 - **Multimodal Learning**  
-Representation Learning, Fusion Techniques, Zero-Shot Learning, Open-Vocabulary Learning
+Representation Learning, Fusion Techniques, Zero-Shot Learning,
 - **Computer Vision**  
-Image Segmentation, Vision Transformers (ViT), Diffusion Models
+Open-Vocabulary Segmentation, Diffusion Models
 - **Natural Language Processing**  
-LLM, Knowledge Graphs
+LLM, Knowledge Graphs, Search algorithms
 - **Explainable AI (XAI)**  
-Interpretability in ML Models, Activation maps, Transparency in Automated Decision-Making
+Interpretability in Neural Networks, Activation maps, Transparency in Automated Decision-Making
 - **Uncertainty Estimation**  
-Conformal prediction, Bayesian Deep Learning
+Model Calibration, Conformal prediction, Bayesian Deep Learning
 
 
 ## 🌐 Let's Connect!
