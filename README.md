@@ -2,6 +2,8 @@
 
 Hi there! I'm François, a Research Scientist in Artificial Intelligence at Meta from 🇫🇷 and 🇪🇸
 
+My ambition is to transcend traditional AI boundaries, specifically Large Language Models (LLMs), by steering my research towards areas with profound positive impacts: Healthcare, Neurosciences, Ecology, and Energy.
+
 ## 🚀 About Me
 
 - 🏢 Currently a Research Scientist intern at Meta (FAIR).
@@ -10,16 +12,17 @@ Hi there! I'm François, a Research Scientist in Artificial Intelligence at Meta
 - 🎸 **Hobbies**: I enjoy playing the Guitar and making music, Hiking, and writing Articles
 
 ## 🔭 Core Research Interests
-- **Multimodal Learning**  
-Representation Learning, Fusion Techniques, Zero-Shot Learning,
-- **Computer Vision**  
-Open-Vocabulary Segmentation, Diffusion Models
-- **Natural Language Processing**  
-LLM, Knowledge Graphs, Search algorithms
-- **Explainable AI (XAI)**  
-Interpretability in Neural Networks, Activation maps, Transparency in Automated Decision-Making
+
+- **Representation Learning**  
+  Joint Embedding Spaces, Cross-modal integration.
 - **Uncertainty Estimation**  
-Model Calibration, Conformal prediction, Bayesian Deep Learning
+  Calibration, search optimization, long-term planning.
+- **Self-Supervised Learning**  
+  Video and sound analysis, new data modalities.
+- **Multimodal Learning**  
+  Robust zero-shot learning, representation fusion.
+- **Explainable AI (XAI)**  
+  Neural network interpretability, decision-making transparency.
 
 
 ## 🌐 Let's Connect!
