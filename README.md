@@ -19,7 +19,7 @@ My ambition is to push the boundaries of AI, especially in highly impactful area
 - **Uncertainty Estimation**  
   Calibration, search optimization, long-term planning.
 - **Self-Supervised Learning**  
-  Video and sound analysis, new data modalities.
+  Masking, Contrastive learning, and generative approaches.
 - **Multimodal Learning**  
   Robust zero-shot learning, representation fusion.
 - **Explainable AI (XAI)**  
