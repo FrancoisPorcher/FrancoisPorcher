@@ -15,7 +15,7 @@ My ambition is to push the boundaries of AI, especially in highly impactful area
 ## 🔭 Core Research Interests
 
 - **Representation Learning**  
-  Joint Embedding Spaces, Cross-modal integration.
+  Joint Embedding Spaces, Hierarchical representations, Cross-modal integration.
 - **Uncertainty Estimation**  
   Calibration, search optimization, long-term planning.
 - **Self-Supervised Learning**  
