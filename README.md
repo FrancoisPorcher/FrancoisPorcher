@@ -2,24 +2,17 @@
 
 Hi! I'm François, I am a PhD Student at Meta (FAIR) in the Segment Anything (SAM) team and Inria (Willow/THOTH).
 
-I’m passionate about advancing general artificial intelligence in computer vision and develop a unified end‑to‑end model capable of complex tasks—reasoning, perception, image grounding and more.
+Current vision architectures which rely on patch level embeddings lack an explicit knowledge of objects, interactions, physics understanding, and generalization abilities.
+
+One objective of my PhD is to improve the perception and visual reasonning capacities of current architectures by exploring object-centric methods.
 
 ## 🚀 About Me
 
-- 🏢 Currently a PhD Student at Meta (FAIR) 2025 - 2028, under the supervision of Nicolas Carion, Karteek Alahari, Shizhe Chen.
-- 🎓 Graduated at UC Berkeley (❤️☀️), where I earned a Master in Computer Sciences in May 2023.
+- 🏢 Currently a PhD Student at Meta (FAIR) 2025 - 2028, under the supervision of [Nicolas Carion](https://scholar.google.com/citations?user=h8u3ll8AAAAJ&hl=fr), [Karteek Alahari](https://scholar.google.fr/citations?user=qcyG7rwAAAAJ&hl=en), [Shizhe Chen](https://cshizhe.github.io).
+- 🎓 Graduated from UC Berkeley (❤️☀️) with Master in Computer Sciences in May 2023.
 - 📚 I also challenged myself to get a Master’s in Pure Mathematics from Paris Saclay, which is one of the toughest Mathematics curriculum.
 - ✏️ **Author**: I occasionnaly share insights and research on my [Medium Blog](https://medium.com/@francoisporcher) when I have time.
 - 🎸 **Hobbies:** I also play the electric guitar (mostly rock/jazz/funk), recently started dancing rock, and love to learn languages (🇮🇹 🇪🇸 🇬🇧 🇫🇷 🇩🇪)
-
-## 🔭 Core Research Interests
-
-- **Object Perception**
-Object detection/segmentation in challenging scenarios, image grounding, object tracking.
-- **Reasonning**
-Visual Question Answering, scene understanding.
-- **Unified vision model**
-Integration of latest vision models like SAM in VLMs.
   
 ## 🌐 Let's Connect!
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@francoisporcher)
