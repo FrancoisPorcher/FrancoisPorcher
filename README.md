@@ -2,10 +2,6 @@
 
 Hi! I'm François, I am a PhD Student at Meta (FAIR) in the Segment Anything (SAM) team and Inria (Willow/THOTH).
 
-Current vision architectures which rely on patch level embeddings lack an explicit knowledge of objects, interactions, physics understanding, and generalization abilities.
-
-One objective of my PhD is to improve the perception and visual reasonning capacities of current architectures by exploring object-centric methods.
-
 ## 🚀 About Me
 
 - 🏢 Currently a PhD Student at Meta (FAIR) 2025 - 2028, under the supervision of [Nicolas Carion](https://scholar.google.com/citations?user=h8u3ll8AAAAJ&hl=fr), [Karteek Alahari](https://scholar.google.fr/citations?user=qcyG7rwAAAAJ&hl=en), [Shizhe Chen](https://cshizhe.github.io).
