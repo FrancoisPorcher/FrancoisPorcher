@@ -9,9 +9,9 @@ Hi! I'm François, I am a PhD Student at Meta (FAIR) in the Segment Anything (SA
 - 🎸 **Hobbies:** I also play the electric guitar (mostly rock/jazz/funk), recently started dancing rock, and love to learn languages (🇮🇹 🇪🇸 🇬🇧 🇫🇷 🇩🇪)
   
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fporcher/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/foporcher)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=LgHZ8hUAAAAJ&hl=en)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/foporcher)
+
 
 
 
