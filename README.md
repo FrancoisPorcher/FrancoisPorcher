@@ -1,5 +1,7 @@
 Hi! I'm François, I am a PhD Student at Meta (FAIR) in the Segment Anything (SAM) team and Inria (Willow/THOTH).
 
+I'm working at the intersection of World Models, Planning, and SSL.
+
 ## 🚀 About Me
 
 - 🏢 PhD Student at Meta (FAIR) 2025 - ?, supervised by [Nicolas Carion](https://scholar.google.com/citations?user=h8u3ll8AAAAJ&hl=fr), [Karteek Alahari](https://scholar.google.fr/citations?user=qcyG7rwAAAAJ&hl=en), [Shizhe Chen](https://cshizhe.github.io).
