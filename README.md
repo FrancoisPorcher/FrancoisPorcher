@@ -4,7 +4,7 @@ I'm working at the intersection of World Models, Planning, and SSL.
 
 ## 🚀 About Me
 
-- 🏢 PhD Student at Meta (FAIR) 2025 - ?, supervised by [Nicolas Carion](https://scholar.google.com/citations?user=h8u3ll8AAAAJ&hl=fr), [Karteek Alahari](https://scholar.google.fr/citations?user=qcyG7rwAAAAJ&hl=en), [Shizhe Chen](https://cshizhe.github.io).
+- 🏢 PhD Student at Meta (FAIR) 2025 - ?, supervised by [Nicolas Carion](https://scholar.google.com/citations?user=h8u3ll8AAAAJ&hl=fr), [Karteek Alahari](https://scholar.google.fr/citations?user=qcyG7rwAAAAJ&hl=en), [Shizhe Chen](https://cshizhe.github.io), [Alessandro Lazaric](https://scholar.google.com/citations?user=6JZ3R6wAAAAJ&hl=en).
 - 🎓 Graduated from UC Berkeley (❤️☀️) with a Master in Computer Sciences in May 2023.
 - 📚 I also challenged myself to get the Jacques Hadamard Master’s in Pure Mathematics from Paris Saclay, one of the toughest Mathematics curriculum.
 - ✏️ **Author**: I occasionnaly share insights and research on my [Medium Blog](https://medium.com/@francoisporcher) when I have time.
